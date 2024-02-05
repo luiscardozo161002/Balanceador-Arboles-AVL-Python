@@ -5,7 +5,7 @@ Script de python, que permite el balanceo de arboles AVL con interfaz grafica us
 
 ### Imagen de Ejemplo
 
-![Logo]([https://pythondiario.com/wp-content/uploads/2018/08/rotacionDoble2.gif](https://runestone.academy/ns/books/published/pythoned/_images/rightrotate1.png))
+![Logo]([https://pythondiario.com/wp-content/uploads/2018/08/rotacionDoble2.gif](https://runestone.academy/ns/books/published/pythoned/_images/rightrotate1.png)
 
 #  Balanceador de Arboles AVL | Interfaz Gráfica (UI - Tkinter)
 ## Autores
